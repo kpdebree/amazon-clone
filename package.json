@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A clone of Amazon for class project.",
+  "main": "bamazoncustomer.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpdebree/amazon-clone.git"
+  },
+  "keywords": [
+    "Amazon",
+    "Clone"
+  ],
+  "author": "kpdebree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpdebree/amazon-clone/issues"
+  },
+  "homepage": "https://github.com/kpdebree/amazon-clone#readme"
+}
